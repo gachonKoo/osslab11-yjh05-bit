@@ -1,4 +1,4 @@
-import geo.utils as utils
+import geo.utils as utils # type: ignore
 
 a,b = 3,4
 c = utils.pythagoras(a,b)
