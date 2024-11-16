@@ -1,8 +1,7 @@
-
 import geo.utils as utils
 
 a,b = 3,4
-c = pythagores(a,b)
+c = pythagoras(a,b)
 print('c=',c)
 
 r=10
